@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38444'
     url: http://www.gutenberg.org/2009/agents/38444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46256#In-the-Ypres-SalientThe-Story-of-a-Fortnight-s-Canadian-Fighting-June-2-16-1916
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
