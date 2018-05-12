@@ -1,0 +1,31 @@
+_repo: In-the-Ypres-SalientThe-Story-of-a-Fortnight-s-Canadian-Fighting-June-2-16-1916_46256
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46256-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Willson, Beckles
+    alias: Willson, Henry Beckles
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '38444'
+    url: http://www.gutenberg.org/2009/agents/38444
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46256'
+  lccn: '16020294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Belgium'
+title: 'In the Ypres Salient
+
+  The Story of a Fortnight''s Canadian Fighting, June 2-16, 1916'
+url: http://www.gutenberg.org/ebooks/46256
